@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Background circle -->
+  <circle cx="16" cy="16" r="16" fill="#2a5c45"/>
+  <!-- Letter S in DM Serif style -->
+  <text x="16" y="22.5"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="22"
+    font-weight="bold"
+    font-style="italic"
+    fill="#e8a234"
+    text-anchor="middle">S</text>
+</svg>
